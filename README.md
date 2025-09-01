@@ -31,5 +31,5 @@ Actualmente me especializo en **Python**, desarrollo web con **Django**, y proye
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO)  
-![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Profile views](https://komarev.com/ghpvc/?username=Seba-sRod-1808)  
+![Snake animation](https://github.com/Seba-sRod-1808/Seba-sRod-1808/blob/output/github-contribution-grid-snake.svg)
