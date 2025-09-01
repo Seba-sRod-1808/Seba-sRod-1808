@@ -4,7 +4,7 @@
 
 Soy estudiante de Ingeniería en Computación en la **Universidad del Valle de Guatemala (UVG)**.  
 Apasionado por el desarrollo de software, el análisis de datos y la creación de soluciones que generen impacto real.  
-Actualmente me especializo en **Python**, desarrollo web con **Django**, y proyectos de **análisis de datos / machine learning**.  
+Actualmente me especializo en **Python**, desarrollo web con **Django**, y proyectos de **análisis de datos / desarrollo de software**.  
 
 ---
 
@@ -21,8 +21,8 @@ Actualmente me especializo en **Python**, desarrollo web con **Django**, y proye
 ---
 
 ## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seba-sRod-1808&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seba-sRod-1808&layout=compact&theme=radical)
 
 ---
 
