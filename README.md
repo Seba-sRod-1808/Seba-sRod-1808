@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sebastián Rodas  
 
-### Computer Engineering Student at UVG | Python Developer | Django | Data Science 🚀  
+### Computer Science Student at UVG | Python Developer | Django | Data Science  
 
-I'm a Computer Engineering student at Universidad del Valle de Guatemala.  
+I'm a Computer Science student at Universidad del Valle de Guatemala.  
 Passionate about software development, data analysis, and building real-world impactful solutions.  
 Currently focusing on **Python**, **Django web development**, and **data science projects**.  
 
