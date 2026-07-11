@@ -25,6 +25,44 @@ Me interesa el ciclo completo de un producto de software: modelar el problema, d
 
 ---
 
+### 🚀 Proyectos destacados
+
+> La mayoría de mi trabajo profesional vive en repos privados de clientes/empresas, pero estos proyectos personales y académicos muestran cómo aplico Django, algoritmos y simulación a problemas reales.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🧭 [Utourist](https://github.com/Seba-sRod-1808/Tourist-Recomendations)**
+
+Sistema de recomendación de viajes para estudiantes universitarios. Combina **Django + Neo4j** con un algoritmo híbrido (filtrado por contenido, colaborativo y demográfico) para sugerir destinos según presupuesto, carrera e intereses.
+
+`Django` `Neo4j` `Cypher` `Recommender Systems`
+
+</td>
+<td width="33%" valign="top">
+
+**🏘️ [Vizinho](https://github.com/Seba-sRod-1808/Vizinho)**
+
+Plataforma web de gestión comunitaria con roles (vecino/admin/superusuario), reportes de incidencias, multas, objetos perdidos y botón de pánico. Backend completo en Django con dashboard por rol.
+
+`Django` `PostgreSQL` `RBAC` `Full-stack`
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ [Process Simulation](https://github.com/Seba-sRod-1808/ProcessSimulation)**
+
+Simulación de un sistema operativo de tiempo compartido con **SimPy**, modelando planificación de CPU, memoria RAM y colas de I/O para encontrar la configuración que minimiza el tiempo de permanencia de los procesos.
+
+`Python` `SimPy` `Matplotlib` `Systems Simulation`
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🛠️ Stack & Herramientas
 
 <table align="center">
@@ -79,6 +117,18 @@ Me interesa el ciclo completo de un producto de software: modelar el problema, d
 
 <img src="https://github-profile-trophy.vercel.app/?username=Seba-sRod-1808&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
 
+</div>
+
+---
+
+### 🐍 Actividad de contribuciones
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seba-sRod-1808/Seba-sRod-1808/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seba-sRod-1808/Seba-sRod-1808/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution animation" src="https://raw.githubusercontent.com/Seba-sRod-1808/Seba-sRod-1808/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
 </div>
 
 ---
