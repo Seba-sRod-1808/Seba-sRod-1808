@@ -110,8 +110,8 @@ Simulación de un sistema operativo de tiempo compartido con **SimPy**, modeland
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Seba-sRod-1808&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seba-sRod-1808&layout=compact&theme=radical&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Seba-sRod-1808&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seba-sRod-1808&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="35%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Seba-sRod-1808&theme=radical&hide_border=true" width="65%"/>
 
