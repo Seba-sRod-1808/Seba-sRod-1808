@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:3776AB&height=220&section=header&text=Sebasti%C3%A1n%20Rodas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Python%20%26%20Django%20Developer%20%7C%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:3776AB&height=220&section=header&text=Sebasti%C3%A1n%20Rodas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Python%20%2B%20Django%20Developer%20%7C%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3776ABFF&center=true&vCenter=true&width=600&lines=Building+backend+systems+with+Django;Turning+raw+data+into+decisions;Computer+Science+%40+Universidad+del+Valle+de+Guatemala;Always+shipping%2C+always+learning" alt="Typing SVG" />
@@ -110,8 +110,8 @@ Simulación de un sistema operativo de tiempo compartido con **SimPy**, modeland
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Seba-sRod-1808&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seba-sRod-1808&layout=compact&theme=radical&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Seba-sRod-1808&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seba-sRod-1808&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="35%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Seba-sRod-1808&theme=radical&hide_border=true" width="65%"/>
 
