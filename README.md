@@ -16,11 +16,11 @@ Soy **Sebastián Rodas**, estudiante de Ciencia de la Computación en la **Unive
 
 Me interesa el ciclo completo de un producto de software: modelar el problema, diseñar la solución, escribir código limpio y, cuando los datos lo permiten, extraer valor de ellos con modelos predictivos. Trabajo cómodo tanto en Python como en Java, uso Docker para mantener entornos reproducibles, y despliego sobre PostgreSQL/MySQL y Heroku.
 
-- 🎓 Estudiante de Ciencia de la Computación en UVG
+- 🎓 Estudiante de Ciencias de la Computación en UVG
 - 🐍 Enfocado en Python, Django y desarrollo backend
 - 📊 Explorando ciencia de datos y machine learning con pandas, seaborn y XGBoost
-- 🌱 Aprendiendo activamente sobre APIs REST, buenas prácticas de despliegue y modelos de ML aplicados
-- 💬 Pregúntame sobre Python, Django, análisis de datos o Guatemala 🇬🇹
+- 🌱 Aprendiendo activamente sobre Backend dev, buenas prácticas de deployment y modelos de ML aplicados
+- 💬 Pregúntame sobre Python, Django, análisis de datos
 - 📫 Contacto: [sebasrod1808@gmail.com](mailto:sebasrod1808@gmail.com)
 
 ---
